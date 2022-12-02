@@ -16,7 +16,7 @@
 
 .nav-button{
     display: flex;
-    /* justify-content: space-between; */
+    justify-content: space-between;
     width: 100%;
     margin-left: 2px;
    
@@ -31,12 +31,12 @@
     background: none;
     padding: 10px 50px;
     border: 1px solid #050a47;
-    /* border-radius: 50px; */
+    border-radius: 50px;
     font-weight: 500;
 }
 
 .page-section{
-    /* padding: 5% 5%; */
+    padding: 5% 5%;
     color: #ffff;
     font-size: 25px;
     font-weight: 300;
@@ -47,7 +47,7 @@
 .page-container{
     color: #ffff;
     padding: 5%;
-    /* border-radius: 0px 0px 10px 10px; */
+    border-radius: 0px 0px 10px 10px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
 }
 
@@ -55,5 +55,5 @@
     background: #050a47;
     color: #ffff;
     transition: ease-in-out 0.1s;
-    /* border-radius: 20px 20px 0px 0px; */
+    border-radius: 20px 20px 0px 0px;
 }
